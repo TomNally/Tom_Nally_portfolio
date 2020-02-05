@@ -1,0 +1,73 @@
+#primer{
+	text-align: left;
+	padding-top: 0em;
+	color: rgb(0,0,128);
+	font-size: 60px;
+}
+
+#myIntro{
+	text-align: left;
+	padding-top: 0em;
+	color: rgb(79,79,79);
+	font-size: 36px;
+}
+
+#overviewContents{
+	text-align: left;
+	padding-top: 0em;
+	font-size: 20px;
+}
+
+
+#introContent{
+	text-align: left;
+	padding-top: 0em;
+	color: rgb(79,79,79);
+	font-size: 28px;
+}
+
+
+#theIntro{
+	background-color: rgb(240,240,240);
+	padding: 4px;
+	padding-bottom: 18px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+hr{
+	border: 3px solid #999;
+	border-radius: 5px;
+}
+
+#myFooter{
+	color: rgb(100,100,100);
+	
+}
+
+#TenComp{
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#flex{
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#AllShapes{
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
+/* End of file  */
+
+
